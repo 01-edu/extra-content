@@ -1,7 +1,4 @@
-# Extra-Content
-Repository for content creators
-
-### Welcome Extra-Content Repository of the 01 Edu System
+### Welcome to the Extra-Content Repository of the 01 Content Team
 
 This repository serves as a reference for the documentation on how to create and upload custom content into our platform.
 Please take into account our approach before making **Issues**
