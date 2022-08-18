@@ -6,7 +6,7 @@ Please take into account our approach before making **Issues**
 Also note that any filestructure represented in here is optional. 
 So it's up to the **Content Creator** to determine their own filestructure.
 
-# You will find here the required files for custom content creation
+You will find here the required files for custom content creation
 
 Thank You :smile:
 # Content Team
